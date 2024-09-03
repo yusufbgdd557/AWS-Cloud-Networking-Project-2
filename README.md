@@ -1,4 +1,4 @@
-# AWS VPC Project 2
+# AWS Cloud Networking - Extend VPC with Private Subnet and Secure Traffic Flow
 
 In this project, I continued my VPC journey by extending the network to include a Private Subnet. The goal was to create an isolated subnet that is not directly connected to the internet while maintaining internal communication within the VPC. This is part of my larger project series where I build out my VPC in a structured and secure way.
 
